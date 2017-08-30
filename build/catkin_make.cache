@@ -1,0 +1,2 @@
+common_utilities:roboy_communication/middleware:roboy_communication/roboy_communication_cognition:roboy_communication/roboy_communication_control:roboy_communication/simulation:roboy_controlled_node_fpga:roboy_interface:roboy_managing_node
+-DCATKIN_DEVEL_PREFIX=/home/roboy/workspace/myoarm_small_FPGA/devel -DCMAKE_INSTALL_PREFIX=/home/roboy/workspace/myoarm_small_FPGA/install -G Unix Makefiles

@@ -1,0 +1,8 @@
+prefix=/home/roboy/workspace/myoarm_small_FPGA/devel
+
+Name: roboy_managing_node
+Description: Description of roboy_managing_node
+Version: 0.0.0
+Cflags: -I/home/roboy/workspace/myoarm_small_FPGA/src/roboy_managing_node/include
+Libs: -L/home/roboy/workspace/myoarm_small_FPGA/devel/lib 
+Requires: message_runtime roboy_communication_middleware common_utilities

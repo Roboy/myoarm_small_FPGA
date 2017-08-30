@@ -13,3 +13,9 @@
 [submodule "src/roboy_managing_node"]
 	path = src/roboy_managing_node
 	url = https://github.com/Roboy/roboy_managing_node.git
+[submodule "src/roboy_powerlink"]
+	path = src/roboy_powerlink
+	url = https://github.com/Roboy/roboy_powerlink.git
+[submodule "src/roboy_fpga"]
+	path = src/roboy_fpga
+	url = https://github.com/Roboy/roboy_fpga.git

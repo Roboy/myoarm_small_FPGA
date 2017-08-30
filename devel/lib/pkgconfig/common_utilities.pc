@@ -1,0 +1,8 @@
+prefix=/home/roboy/workspace/myoarm_small_FPGA/devel
+
+Name: common_utilities
+Description: Description of common_utilities
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/roboy/workspace/myoarm_small_FPGA/devel/lib 
+Requires: message_runtime

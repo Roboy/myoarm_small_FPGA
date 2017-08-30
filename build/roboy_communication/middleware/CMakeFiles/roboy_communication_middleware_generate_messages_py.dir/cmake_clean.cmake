@@ -1,0 +1,40 @@
+file(REMOVE_RECURSE
+  "CMakeFiles/roboy_communication_middleware_generate_messages_py"
+  "/home/roboy/workspace/myoarm_small_FPGA/devel/lib/python2.7/dist-packages/roboy_communication_middleware/msg/_MotorStatus.py"
+  "/home/roboy/workspace/myoarm_small_FPGA/devel/lib/python2.7/dist-packages/roboy_communication_middleware/msg/_DarkRoom.py"
+  "/home/roboy/workspace/myoarm_small_FPGA/devel/lib/python2.7/dist-packages/roboy_communication_middleware/msg/_RoboyState.py"
+  "/home/roboy/workspace/myoarm_small_FPGA/devel/lib/python2.7/dist-packages/roboy_communication_middleware/msg/_MotorTrajectoryControl.py"
+  "/home/roboy/workspace/myoarm_small_FPGA/devel/lib/python2.7/dist-packages/roboy_communication_middleware/msg/_MagneticSensor.py"
+  "/home/roboy/workspace/myoarm_small_FPGA/devel/lib/python2.7/dist-packages/roboy_communication_middleware/msg/_MotorRecordConfig.py"
+  "/home/roboy/workspace/myoarm_small_FPGA/devel/lib/python2.7/dist-packages/roboy_communication_middleware/msg/_ArucoPose.py"
+  "/home/roboy/workspace/myoarm_small_FPGA/devel/lib/python2.7/dist-packages/roboy_communication_middleware/msg/_Trajectory.py"
+  "/home/roboy/workspace/myoarm_small_FPGA/devel/lib/python2.7/dist-packages/roboy_communication_middleware/msg/_DanceCommand.py"
+  "/home/roboy/workspace/myoarm_small_FPGA/devel/lib/python2.7/dist-packages/roboy_communication_middleware/msg/_MotorRecord.py"
+  "/home/roboy/workspace/myoarm_small_FPGA/devel/lib/python2.7/dist-packages/roboy_communication_middleware/msg/_DarkRoomSensor.py"
+  "/home/roboy/workspace/myoarm_small_FPGA/devel/lib/python2.7/dist-packages/roboy_communication_middleware/msg/_Status.py"
+  "/home/roboy/workspace/myoarm_small_FPGA/devel/lib/python2.7/dist-packages/roboy_communication_middleware/msg/_ControllerRequest.py"
+  "/home/roboy/workspace/myoarm_small_FPGA/devel/lib/python2.7/dist-packages/roboy_communication_middleware/msg/_JointCommand.py"
+  "/home/roboy/workspace/myoarm_small_FPGA/devel/lib/python2.7/dist-packages/roboy_communication_middleware/msg/_Position.py"
+  "/home/roboy/workspace/myoarm_small_FPGA/devel/lib/python2.7/dist-packages/roboy_communication_middleware/msg/_ControllerState.py"
+  "/home/roboy/workspace/myoarm_small_FPGA/devel/lib/python2.7/dist-packages/roboy_communication_middleware/msg/_JointAngle.py"
+  "/home/roboy/workspace/myoarm_small_FPGA/devel/lib/python2.7/dist-packages/roboy_communication_middleware/msg/_MotorCommand.py"
+  "/home/roboy/workspace/myoarm_small_FPGA/devel/lib/python2.7/dist-packages/roboy_communication_middleware/msg/_Steer.py"
+  "/home/roboy/workspace/myoarm_small_FPGA/devel/lib/python2.7/dist-packages/roboy_communication_middleware/msg/_MotorConfig.py"
+  "/home/roboy/workspace/myoarm_small_FPGA/devel/lib/python2.7/dist-packages/roboy_communication_middleware/msg/_Pose.py"
+  "/home/roboy/workspace/myoarm_small_FPGA/devel/lib/python2.7/dist-packages/roboy_communication_middleware/msg/_JointStatus.py"
+  "/home/roboy/workspace/myoarm_small_FPGA/devel/lib/python2.7/dist-packages/roboy_communication_middleware/msg/_MuscleState.py"
+  "/home/roboy/workspace/myoarm_small_FPGA/devel/lib/python2.7/dist-packages/roboy_communication_middleware/srv/_InverseKinematics.py"
+  "/home/roboy/workspace/myoarm_small_FPGA/devel/lib/python2.7/dist-packages/roboy_communication_middleware/srv/_DanceTrajectory.py"
+  "/home/roboy/workspace/myoarm_small_FPGA/devel/lib/python2.7/dist-packages/roboy_communication_middleware/srv/_EmergencyStop.py"
+  "/home/roboy/workspace/myoarm_small_FPGA/devel/lib/python2.7/dist-packages/roboy_communication_middleware/srv/_SetTrajectory.py"
+  "/home/roboy/workspace/myoarm_small_FPGA/devel/lib/python2.7/dist-packages/roboy_communication_middleware/srv/_Record.py"
+  "/home/roboy/workspace/myoarm_small_FPGA/devel/lib/python2.7/dist-packages/roboy_communication_middleware/srv/_Initialize.py"
+  "/home/roboy/workspace/myoarm_small_FPGA/devel/lib/python2.7/dist-packages/roboy_communication_middleware/srv/_MotorConfigService.py"
+  "/home/roboy/workspace/myoarm_small_FPGA/devel/lib/python2.7/dist-packages/roboy_communication_middleware/msg/__init__.py"
+  "/home/roboy/workspace/myoarm_small_FPGA/devel/lib/python2.7/dist-packages/roboy_communication_middleware/srv/__init__.py"
+)
+
+# Per-language clean rules from dependency scanning.
+foreach(lang )
+  include(CMakeFiles/roboy_communication_middleware_generate_messages_py.dir/cmake_clean_${lang}.cmake OPTIONAL)
+endforeach()

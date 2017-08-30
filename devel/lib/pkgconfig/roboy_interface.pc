@@ -1,0 +1,8 @@
+prefix=/home/roboy/workspace/myoarm_small_FPGA/devel
+
+Name: roboy_interface
+Description: Description of roboy_interface
+Version: 0.1.0
+Cflags: 
+Libs: -L/home/roboy/workspace/myoarm_small_FPGA/devel/lib 
+Requires: roboy_managing_node roboy_communication_middleware common_utilities

@@ -1,0 +1,8 @@
+prefix=/home/roboy/workspace/myoarm_small_FPGA/devel
+
+Name: roboy_controlled_node_fpga
+Description: Description of roboy_controlled_node_fpga
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/roboy/workspace/myoarm_small_FPGA/devel/lib 
+Requires: message_runtime common_utilities roboy_communication_middleware

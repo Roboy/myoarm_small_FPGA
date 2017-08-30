@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Bundle-SymbolicName: org.ros.rosjava_messages.roboy_communication_simu
+ lation
+Bundle-Version: 0.0.0
+Bundle-Name: roboy_communication_simulation
+Bundle-ManifestVersion: 2
+Bnd-LastModified: 1504110611000
+Created-By: 1.8.0_131 (Oracle Corporation)
+Tool: Bnd-2.1.0.20130426-122213
+

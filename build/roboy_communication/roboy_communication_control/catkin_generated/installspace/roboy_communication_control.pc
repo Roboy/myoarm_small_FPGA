@@ -1,0 +1,8 @@
+prefix=/home/roboy/workspace/myoarm_small_FPGA/install
+
+Name: roboy_communication_control
+Description: Description of roboy_communication_control
+Version: 0.0.1
+Cflags: -I/home/roboy/workspace/myoarm_small_FPGA/install/include
+Libs: -L/home/roboy/workspace/myoarm_small_FPGA/install/lib 
+Requires: roscpp message_runtime message_generation

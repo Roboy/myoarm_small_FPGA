@@ -1,0 +1,13 @@
+Manifest-Version: 1.0
+Export-Package: roboy_communication_cognition;version="0.0.2";uses:="o
+ rg.ros.internal.message,std_msgs"
+Bundle-SymbolicName: org.ros.rosjava_messages.roboy_communication_cogn
+ ition
+Bundle-Version: 0.0.2
+Bundle-Name: roboy_communication_cognition
+Bundle-ManifestVersion: 2
+Bnd-LastModified: 1504110608000
+Import-Package: org.ros.internal.message,std_msgs;version="[0.5,1)"
+Created-By: 1.8.0_131 (Oracle Corporation)
+Tool: Bnd-2.1.0.20130426-122213
+
